@@ -1,5 +1,5 @@
- ⚡ SkillSight Pro – AI + LLM Powered Resume Intelligence Platform  
- End-to-End DevOps Deployment with AWS, Docker, Kubernetes, Splunk & Automation
+# **⚡ SkillSight Pro – AI + LLM Powered Resume Intelligence Platform**  
+## **End-to-End DevOps Deployment with AWS, Docker, Kubernetes, Splunk & Automation**
 
 SkillSight Pro is an advanced **AI-powered, LLM-based Resume & Career Analysis System** that evaluates resumes, extracts skills, matches job roles, and generates personalized insights using Machine Learning, Deep Learning, and modern Generative AI models.
 
@@ -150,6 +150,6 @@ SkillSight Pro is a complete **AI + ML + LLM + DevOps** platform demonstrating:
 
 # 👤 Author
 
-**Venkata Varshith Narayanam **  
+Venkata Varshith Narayanam 
 B.Tech CSE – Data Science & Machine Learning  
 DevOps • AI Engineering • Cloud • MLOps -- LLM -- Deep learning
