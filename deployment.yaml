@@ -20,4 +20,5 @@ spec:
         - containerPort: 8501
         env:
         - name: OPENROUTER_API_KEY
-          value: "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"
+          value: "sk
+
